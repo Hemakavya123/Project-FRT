@@ -1,6 +1,6 @@
 # ✨ MAKE OVER  ✨
 
-This is a web based application developed for life style related health based website in india
+This is a web based application developed for life style related Decorations based website in india
 
 ### This web based MAKE OVER application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
