@@ -7,7 +7,7 @@ This is a web based application developed for life style related health based we
 
 *Project Link* - https://purple-coast-0ed06ab00.2.azurestaticapps.net
 
-*Project Demo video link* - 
+*Project Demo video link* -  https://youtu.be/YSVao3jsM88
 
 
 
