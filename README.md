@@ -5,7 +5,7 @@ This is a web based application developed for life style related health based we
 ### This web based MAKE OVER application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - 
+*Project Link* - https://purple-coast-0ed06ab00.2.azurestaticapps.net
 
 *Project Demo video link* - 
 
