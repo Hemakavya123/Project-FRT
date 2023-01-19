@@ -92,7 +92,9 @@ This is a web based application developed for life style related health based we
 
 
 ### Azure healthbot -
+![Screenshot (364)](https://user-images.githubusercontent.com/120080328/213350216-c9aa6b89-9939-43e0-8511-fcbd8ae7c809.png)
 
+![Screenshot (365)](https://user-images.githubusercontent.com/120080328/213350225-3f05dce5-c932-4371-94bb-51fc082b85a7.png)
 
 
 
@@ -101,6 +103,7 @@ This is a web based application developed for life style related health based we
 
 
 ### static web apps -
+![Screenshot (363)](https://user-images.githubusercontent.com/120080328/213350237-575e11fa-793c-4fe6-a49d-7aeeca86b322.png)
 
 
 
